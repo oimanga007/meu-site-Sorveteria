@@ -163,7 +163,7 @@ ul li:hover {
   grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 20px;
   align-items: stretch;
-  background-color: #f4fcf0;
+  background-color: #f4faf2;
 }
 
 .card_parte_branca {
